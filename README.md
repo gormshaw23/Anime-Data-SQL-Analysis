@@ -9,8 +9,8 @@ The objectives of the project are to help us understand in:
 4. Comparing the differences between SQL and NoSQL. 
 
 ## Technologies used 
-Our team decided to use **PostgreSQL** with **pgadmin4** as the technologies used to use SQL for extracting and analyzing useful information from the Anime datasets.
-For NoSQL, **Couchbase** was used for NoSQL. 
+- Our team decided to use **PostgreSQL** with **pgadmin4** as the technologies used to use SQL for extracting and analyzing useful information from the Anime datasets.
+- For NoSQL, **Couchbase** was used for NoSQL. 
 
 ## Description of the SQL dataset
 
