@@ -10,7 +10,7 @@ The objectives of the project are to help us understand in:
 
 ## Technologies used 
 - Our team decided to use **PostgreSQL** with **pgadmin4** as the technologies used to use SQL for extracting and analyzing useful information from the Anime datasets.
-- For NoSQL, **Couchbase** was used for NoSQL. 
+- For NoSQL, **Couchbase** was used for extracting useful information of the crime dataset. 
 
 ## Description of the SQL dataset
 
