@@ -30,6 +30,8 @@ https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020?se
 
 The dataset used pertained to reported incidents of crime in the City of Chicago from 2001 and onward. The actual csv file is approximately 1.5GB while its jsoncounterpart is 4.7GB. The size of the bucket within Couchbase Server is approximately ~4.7GB (unsurprisingly about the size of the json file). 
 
+https://www.kaggle.com/datasets/chicago/chicago-crime
+
 
 
 
